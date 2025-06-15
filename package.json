@@ -1,0 +1,23 @@
+{
+  "name": "speech-synthesis-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite --host",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^5.2.4",
+    "github-markdown-css": "^5.8.1",
+    "marked": "^15.0.12",
+    "openai": "^5.3.0",
+    "remove-markdown": "^0.6.2",
+    "vite": "^6.3.5",
+    "vue": "^3.5.16"
+  }
+}
